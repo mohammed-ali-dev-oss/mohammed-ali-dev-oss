@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hello, I'm Mohammed Ali! 👋
 
-<!--
-**mohammed-ali-dev-oss/mohammed-ali-dev-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Telecommunications Engineer & Systems Developer
 
-Here are some ideas to get you started:
+I am passionate about building efficient digital systems, automating workflows, and bridging the gap between complex telecom infrastructure and modern software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack & Tools
+* **Languages:** Python, JavaScript, HTML/CSS
+* **Automation:** n8n, API Integrations
+* **Domains:** Telecommunications, Digital Systems, Web Development
+* **Tools:** Git, GitHub, VS Code, Netlify
+
+---
+
+### 📈 What I'm working on
+* Developing scalable automation workflows for business efficiency.
+* Building responsive web solutions with a focus on modern UI/UX (Glassmorphism & Clean Design).
+* Always exploring new ways to integrate telecom protocols with web technologies.
+
+---
+
+### 📫 Get in Touch
+* **Portfolio:** [Insert Link to your Netlify site]
+* **LinkedIn:** [Insert your LinkedIn Link]
+
+---
+*“Building the future, one line of code at a time.”* 
