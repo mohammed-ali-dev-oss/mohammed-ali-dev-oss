@@ -1,4 +1,4 @@
-# Hello, I'm Mohammed Ali! 👋
+# Hello, I'm Mohammed ! 👋
 
 ### 🚀 Telecommunications Engineer & Systems Developer
 
