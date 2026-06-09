@@ -22,8 +22,8 @@ I am passionate about building efficient digital systems, automating workflows, 
 ---
 
 ### 📫 Get in Touch
-* **Portfolio:** [Insert Link to your Netlify site]
-* **LinkedIn:** [Insert your LinkedIn Link]
+* **Portfolio:** [https://mohammed-m.netlify.app/]
+
 
 ---
 *“Building the future, one line of code at a time.”* 
